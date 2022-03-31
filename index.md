@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Blog of Ian Cullinane.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Will post articles, code, art, and I am not sure what. I may never post anything again. 
