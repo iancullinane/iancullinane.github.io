@@ -2,11 +2,7 @@
 
 In mobile gaming, we deal with a lot of files. The game client, in addition to the application code, can have dozens to thousands of media, data, and asset files. 
 
-<<<<<<< HEAD
 This presents two immediate issues when serving files to players. One, is the cost of data transfer for the provider. In AWS for example we pay for "data out" and every client (which can number in the millions) needs to download those files (though this is largely mitigated using CloudFront). Issue two, is the the player and their bandwidth, including additional costs like time, data caps. 
-=======
-This presents two immediate issues when serving files to players. One, is the cost of data transfer for the provider. In AWS for example we pay for "data out" and every client (which can number in the millions) needs to download those files. Issue two, is the the player and their bandwidth, including additional costs like time, data caps. 
->>>>>>> caf5e6f4ba00b7817d3d55753fef79b8c38c60ce
 
 Common solutions include not doing anything and eating those costs, or using a zip file to deliver the client and unpacking. The following describes a solution for detecting patches using Amazon CloudFront@Edge, in tandem with SQS, and S3. There will be a brief psedocode section on implementing a patching algorithm.
 
