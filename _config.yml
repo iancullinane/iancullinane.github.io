@@ -16,7 +16,7 @@ github_username: "iancullinane"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-remote_theme: daattali/beautiful-jekyll
+remote_theme: agusmakmun/agusmakmun.github.io
 rss: rss
 
 kramdown:
