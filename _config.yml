@@ -17,8 +17,7 @@ github_username: "iancullinane"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 # remote_theme: "sparanoid/almace-scaffolding"
-remote_theme: daattali/beautiful-jekyll@5.0.0
-
+remote_theme: daattali/beautiful-jekyll
 rss: rss
 
 kramdown:
