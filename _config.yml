@@ -16,7 +16,7 @@ github_username: "iancullinane"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-remote_theme: daviddarnes/alembic
+theme: "minima"
 rss: rss
 
 kramdown:
