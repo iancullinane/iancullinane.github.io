@@ -1,0 +1,3 @@
+## Chop wood, carry water
+
+I haven't blogged in a while, and its usually because I forget how I set it up. So with this I don't think I can forget. Not sure exactly what I will post yet...
