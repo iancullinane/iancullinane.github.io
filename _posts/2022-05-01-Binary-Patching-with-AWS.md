@@ -1,4 +1,7 @@
-## Binary Patching
+---
+title: Binary Patching with AWS
+subtitle: Breakdown of a fault-tolerant patching approach.
+---
 
 In mobile gaming, we deal with a lot of files. The game client, in addition to the application code, can have dozens to thousands of media, data, and asset files. 
 

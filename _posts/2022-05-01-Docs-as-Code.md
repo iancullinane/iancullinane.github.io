@@ -1,4 +1,7 @@
-## Docs as code
+---
+title: Docs as Code
+subtitle: How to write clearer docs by treating them as code.
+---
 
 There are so many docs out there. There is a misconception that a software engineer is responsible for writing code. This is actually not true and only makes up a small portion of the job day-to-day (unless you are associate level). Much of the day is spent reading code, and after meetings and other overhead, you mostly have reading and writing docs. Often the priority of an engineer is exactly this order; get through everything at the bottom so I can code, and it often feels docs are exactly in the above order. Last.
 
