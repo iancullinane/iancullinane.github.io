@@ -4,5 +4,6 @@ Published a new container for turning video files into gifs. [eignhpants/gif-fac
 
 However I will probably add more features since it was pretty simple to implement.
 
-Cheers
+Cheers,
+
 I a n
