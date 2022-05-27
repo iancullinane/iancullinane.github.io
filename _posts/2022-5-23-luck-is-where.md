@@ -1,6 +1,6 @@
 ---
 title: Luck is Where Preparation Meets Opportunity
-subtitle: A docker image for converting video files into gifs
+subtitle: First of a series on distributed systems
 tags: luck-is-where game-theory prisoner the-generals games
 ---
 
