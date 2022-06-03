@@ -1,6 +1,6 @@
 ---
 title: Luck is Where Preparation Meets Opportunity
-subtitle: Game theory and Distributed Systems
+subtitle: First of a series on distributed systems
 tags: luck-is-where game-theory prisoner the-generals games
 ---
 
