@@ -9,12 +9,12 @@ It's important to practice self-care. Leave yourself heartfelt notes. I try to d
 Like this:
 
 ```go
-	// log.Println(utils.PrettyPrint(reqView.Blocks))
-	// ITS DOUBLE IDS ASSHOLE
-	_, err := app.ChatClientLib.PublishView(callback.User.ID, reqView, "")
-	if err != nil {
-		log.Println(err)
-	}
+log.Println(utils.PrettyPrint(reqView.Blocks)) // <-- problem here
+// ITS DOUBLE IDS ASSHOLE
+_, err := app.ChatClientLib.PublishView(callback.User.ID, reqView, "")
+if err != nil {
+	log.Println(err)
+}
 ```
 
 See? I solved the problem *and* gave my day a little boost.
