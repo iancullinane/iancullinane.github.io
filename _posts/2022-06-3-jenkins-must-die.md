@@ -8,7 +8,7 @@ tags: jenkins ops devops cloud poetry
 
 Time is a flat circle. 
 
-Years ago we built a Jenkins. And things were good (lol no). A skilled engineer took it to MGP, and there it stayed. Yet I vowed, even then, that it should be destroyed.
+Years ago we built a [Jenkins](https://www.jenkins.io/). And things were good (lol no). A skilled engineer took it to MGP, and there it stayed. Yet I vowed, even then, that it should be destroyed.
 
 I tried drone. I was rejected. I told the build engineer how to kill it. Never prioritized. The engineer became sisyphus and Jenkins his rock. Times were hard.
 
